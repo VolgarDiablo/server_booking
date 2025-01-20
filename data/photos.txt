@@ -1,0 +1,1321 @@
+[
+  {
+    "author": {
+      "avatar": "img/avatars/user05.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.66436 139.79569",
+      "price": 5304,
+      "type": "house",
+      "rooms": 5,
+      "guests": 52,
+      "checking": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "dishwasher",
+        "parking",
+        "elevator",
+        "conditioner",
+        "wifi",
+        "washer"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg"
+      ],
+      "location": {
+        "x": 35.66436,
+        "y": 139.79569
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user03.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.67322 139.78421",
+      "price": 1521,
+      "type": "house",
+      "rooms": 3,
+      "guests": 93,
+      "checking": "12:00",
+      "checkout": "14:00",
+      "features": [
+        "elevator",
+        "wifi",
+        "dishwasher",
+        "parking"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ],
+      "location": {
+        "x": 35.67322,
+        "y": 139.78421
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user01.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.66075 139.78273",
+      "price": 746,
+      "type": "bungalow",
+      "rooms": 7,
+      "guests": 95,
+      "checking": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "parking",
+        "dishwasher",
+        "elevator",
+        "washer"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ],
+      "location": {
+        "x": 35.66075,
+        "y": 139.78273
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user07.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.65285 139.77503",
+      "price": 2890,
+      "type": "bungalow",
+      "rooms": 2,
+      "guests": 92,
+      "checking": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "washer",
+        "parking"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ],
+      "location": {
+        "x": 35.65285,
+        "y": 139.77503
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user02.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.66326 139.71323",
+      "price": 7362,
+      "type": "bungalow",
+      "rooms": 5,
+      "guests": 85,
+      "checking": "13:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ],
+      "location": {
+        "x": 35.66326,
+        "y": 139.71323
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user06.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.69086 139.75175",
+      "price": 6851,
+      "type": "flat",
+      "rooms": 6,
+      "guests": 66,
+      "checking": "14:00",
+      "checkout": "13:00",
+      "features": [
+        "dishwasher",
+        "wifi"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ],
+      "location": {
+        "x": 35.69086,
+        "y": 139.75175
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user08.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.66167 139.70499",
+      "price": 7090,
+      "type": "flat",
+      "rooms": 8,
+      "guests": 2,
+      "checking": "12:00",
+      "checkout": "14:00",
+      "features": [
+        "washer",
+        "parking",
+        "dishwasher",
+        "elevator",
+        "conditioner",
+        "wifi"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg"
+      ],
+      "location": {
+        "x": 35.66167,
+        "y": 139.70499
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user04.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.66082 139.72997",
+      "price": 575,
+      "type": "bungalow",
+      "rooms": 5,
+      "guests": 21,
+      "checking": "12:00",
+      "checkout": "13:00",
+      "features": [
+        "parking",
+        "washer"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ],
+      "location": {
+        "x": 35.66082,
+        "y": 139.72997
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user04.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.69376 139.77609",
+      "price": 8751,
+      "type": "palace",
+      "rooms": 7,
+      "guests": 86,
+      "checking": "12:00",
+      "checkout": "13:00",
+      "features": [
+        "elevator"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg"
+      ],
+      "location": {
+        "x": 35.69376,
+        "y": 139.77609
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user03.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.69369 139.75653",
+      "price": 9322,
+      "type": "house",
+      "rooms": 2,
+      "guests": 71,
+      "checking": "12:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi",
+        "dishwasher"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ],
+      "location": {
+        "x": 35.69369,
+        "y": 139.75653
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user05.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.65274 139.71805",
+      "price": 8343,
+      "type": "flat",
+      "rooms": 6,
+      "guests": 4,
+      "checking": "14:00",
+      "checkout": "12:00",
+      "features": [
+        "washer",
+        "parking",
+        "conditioner"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ],
+      "location": {
+        "x": 35.65274,
+        "y": 139.71805
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user07.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.67184 139.70079",
+      "price": 2392,
+      "type": "bungalow",
+      "rooms": 6,
+      "guests": 22,
+      "checking": "12:00",
+      "checkout": "12:00",
+      "features": [
+        "dishwasher"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ],
+      "location": {
+        "x": 35.67184,
+        "y": 139.70079
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user04.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.68526 139.7208",
+      "price": 6845,
+      "type": "flat",
+      "rooms": 7,
+      "guests": 92,
+      "checking": "13:00",
+      "checkout": "12:00",
+      "features": [
+        "conditioner"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ],
+      "location": {
+        "x": 35.68526,
+        "y": 139.7208
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user07.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.66028 139.7166",
+      "price": 4947,
+      "type": "palace",
+      "rooms": 6,
+      "guests": 64,
+      "checking": "14:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi",
+        "elevator",
+        "dishwasher",
+        "parking",
+        "conditioner"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ],
+      "location": {
+        "x": 35.66028,
+        "y": 139.7166
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user08.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.67865 139.74952",
+      "price": 8744,
+      "type": "bungalow",
+      "rooms": 4,
+      "guests": 43,
+      "checking": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "elevator",
+        "parking",
+        "dishwasher"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ],
+      "location": {
+        "x": 35.67865,
+        "y": 139.74952
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user05.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.67342 139.75742",
+      "price": 5446,
+      "type": "house",
+      "rooms": 6,
+      "guests": 35,
+      "checking": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "conditioner",
+        "washer"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg"
+      ],
+      "location": {
+        "x": 35.67342,
+        "y": 139.75742
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user06.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.68354 139.70092",
+      "price": 155,
+      "type": "house",
+      "rooms": 5,
+      "guests": 107,
+      "checking": "14:00",
+      "checkout": "13:00",
+      "features": [
+        "parking"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ],
+      "location": {
+        "x": 35.68354,
+        "y": 139.70092
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user07.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.69124 139.73047",
+      "price": 1823,
+      "type": "bungalow",
+      "rooms": 8,
+      "guests": 34,
+      "checking": "13:00",
+      "checkout": "12:00",
+      "features": [
+        "elevator"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ],
+      "location": {
+        "x": 35.69124,
+        "y": 139.73047
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user03.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.66368 139.75005",
+      "price": 3247,
+      "type": "bungalow",
+      "rooms": 2,
+      "guests": 42,
+      "checking": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "parking",
+        "dishwasher",
+        "wifi"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ],
+      "location": {
+        "x": 35.66368,
+        "y": 139.75005
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user07.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.69248 139.75453",
+      "price": 9678,
+      "type": "bungalow",
+      "rooms": 2,
+      "guests": 6,
+      "checking": "13:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi",
+        "conditioner",
+        "dishwasher"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ],
+      "location": {
+        "x": 35.69248,
+        "y": 139.75453
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user08.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.68457 139.73192",
+      "price": 1421,
+      "type": "house",
+      "rooms": 4,
+      "guests": 76,
+      "checking": "12:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "conditioner",
+        "washer"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ],
+      "location": {
+        "x": 35.68457,
+        "y": 139.73192
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user06.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.67195 139.78239",
+      "price": 365,
+      "type": "palace",
+      "rooms": 2,
+      "guests": 3,
+      "checking": "13:00",
+      "checkout": "12:00",
+      "features": [
+        "washer",
+        "parking"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ],
+      "location": {
+        "x": 35.67195,
+        "y": 139.78239
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user03.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.66817 139.725",
+      "price": 558,
+      "type": "bungalow",
+      "rooms": 2,
+      "guests": 50,
+      "checking": "14:00",
+      "checkout": "12:00",
+      "features": [
+        "washer",
+        "conditioner",
+        "dishwasher",
+        "elevator",
+        "wifi",
+        "parking"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg"
+      ],
+      "location": {
+        "x": 35.66817,
+        "y": 139.725
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user06.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.69797 139.79847",
+      "price": 9220,
+      "type": "bungalow",
+      "rooms": 3,
+      "guests": 103,
+      "checking": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ],
+      "location": {
+        "x": 35.69797,
+        "y": 139.79847
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user06.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.66715 139.79013",
+      "price": 7267,
+      "type": "palace",
+      "rooms": 1,
+      "guests": 54,
+      "checking": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "washer",
+        "parking",
+        "conditioner"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ],
+      "location": {
+        "x": 35.66715,
+        "y": 139.79013
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user03.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.68718 139.72266",
+      "price": 6381,
+      "type": "bungalow",
+      "rooms": 2,
+      "guests": 117,
+      "checking": "12:00",
+      "checkout": "13:00",
+      "features": [
+        "elevator",
+        "dishwasher",
+        "conditioner",
+        "washer",
+        "wifi"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg"
+      ],
+      "location": {
+        "x": 35.68718,
+        "y": 139.72266
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user03.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.67976 139.7218",
+      "price": 9419,
+      "type": "palace",
+      "rooms": 6,
+      "guests": 94,
+      "checking": "14:00",
+      "checkout": "13:00",
+      "features": [
+        "conditioner",
+        "wifi",
+        "dishwasher",
+        "parking",
+        "elevator",
+        "washer"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ],
+      "location": {
+        "x": 35.67976,
+        "y": 139.7218
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user06.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.66424 139.78985",
+      "price": 7405,
+      "type": "bungalow",
+      "rooms": 7,
+      "guests": 42,
+      "checking": "12:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi",
+        "parking",
+        "conditioner"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ],
+      "location": {
+        "x": 35.66424,
+        "y": 139.78985
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user03.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.66178 139.71539",
+      "price": 3311,
+      "type": "house",
+      "rooms": 6,
+      "guests": 91,
+      "checking": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "conditioner",
+        "elevator",
+        "washer"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ],
+      "location": {
+        "x": 35.66178,
+        "y": 139.71539
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user07.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.65306 139.76398",
+      "price": 4094,
+      "type": "palace",
+      "rooms": 5,
+      "guests": 22,
+      "checking": "13:00",
+      "checkout": "12:00",
+      "features": [
+        "conditioner",
+        "parking",
+        "elevator",
+        "dishwasher",
+        "washer"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg"
+      ],
+      "location": {
+        "x": 35.65306,
+        "y": 139.76398
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user07.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.65026 139.79917",
+      "price": 4440,
+      "type": "flat",
+      "rooms": 5,
+      "guests": 80,
+      "checking": "14:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi",
+        "washer",
+        "dishwasher"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ],
+      "location": {
+        "x": 35.65026,
+        "y": 139.79917
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user03.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.67033 139.76448",
+      "price": 8692,
+      "type": "flat",
+      "rooms": 4,
+      "guests": 69,
+      "checking": "13:00",
+      "checkout": "12:00",
+      "features": [
+        "washer",
+        "wifi"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ],
+      "location": {
+        "x": 35.67033,
+        "y": 139.76448
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user06.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.67409 139.73551",
+      "price": 9561,
+      "type": "flat",
+      "rooms": 2,
+      "guests": 110,
+      "checking": "12:00",
+      "checkout": "12:00",
+      "features": [
+        "conditioner",
+        "elevator",
+        "dishwasher"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg"
+      ],
+      "location": {
+        "x": 35.67409,
+        "y": 139.73551
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user08.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.66053 139.78975",
+      "price": 1519,
+      "type": "palace",
+      "rooms": 8,
+      "guests": 57,
+      "checking": "12:00",
+      "checkout": "13:00",
+      "features": [
+        "parking",
+        "dishwasher",
+        "wifi",
+        "elevator",
+        "washer"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg"
+      ],
+      "location": {
+        "x": 35.66053,
+        "y": 139.78975
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user03.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.68392 139.73583",
+      "price": 1602,
+      "type": "bungalow",
+      "rooms": 2,
+      "guests": 109,
+      "checking": "12:00",
+      "checkout": "13:00",
+      "features": [
+        "washer",
+        "wifi",
+        "parking",
+        "dishwasher"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ],
+      "location": {
+        "x": 35.68392,
+        "y": 139.73583
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user08.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.69197 139.77492",
+      "price": 3956,
+      "type": "flat",
+      "rooms": 7,
+      "guests": 43,
+      "checking": "14:00",
+      "checkout": "12:00",
+      "features": [
+        "conditioner",
+        "wifi",
+        "dishwasher",
+        "elevator"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg"
+      ],
+      "location": {
+        "x": 35.69197,
+        "y": 139.77492
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user04.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.65092 139.73298",
+      "price": 6416,
+      "type": "house",
+      "rooms": 6,
+      "guests": 54,
+      "checking": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "parking",
+        "washer"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg"
+      ],
+      "location": {
+        "x": 35.65092,
+        "y": 139.73298
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user05.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.66059 139.79614",
+      "price": 3194,
+      "type": "bungalow",
+      "rooms": 3,
+      "guests": 61,
+      "checking": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "parking",
+        "elevator",
+        "dishwasher",
+        "conditioner"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg"
+      ],
+      "location": {
+        "x": 35.66059,
+        "y": 139.79614
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user02.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.68119 139.71649",
+      "price": 3754,
+      "type": "bungalow",
+      "rooms": 2,
+      "guests": 99,
+      "checking": "13:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "conditioner",
+        "parking"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ],
+      "location": {
+        "x": 35.68119,
+        "y": 139.71649
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user07.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.6756 139.78723",
+      "price": 1534,
+      "type": "bungalow",
+      "rooms": 6,
+      "guests": 97,
+      "checking": "14:00",
+      "checkout": "12:00",
+      "features": [
+        "wifi",
+        "parking",
+        "conditioner",
+        "dishwasher",
+        "elevator",
+        "washer"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ],
+      "location": {
+        "x": 35.6756,
+        "y": 139.78723
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user06.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.67749 139.7802",
+      "price": 987,
+      "type": "bungalow",
+      "rooms": 2,
+      "guests": 47,
+      "checking": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "parking",
+        "dishwasher",
+        "elevator",
+        "washer",
+        "wifi",
+        "conditioner"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ],
+      "location": {
+        "x": 35.67749,
+        "y": 139.7802
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user06.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.6744 139.71106",
+      "price": 8759,
+      "type": "flat",
+      "rooms": 6,
+      "guests": 21,
+      "checking": "13:00",
+      "checkout": "12:00",
+      "features": [
+        "parking",
+        "dishwasher"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg"
+      ],
+      "location": {
+        "x": 35.6744,
+        "y": 139.71106
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user01.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.66011 139.75168",
+      "price": 7001,
+      "type": "bungalow",
+      "rooms": 7,
+      "guests": 91,
+      "checking": "12:00",
+      "checkout": "12:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "parking"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg"
+      ],
+      "location": {
+        "x": 35.66011,
+        "y": 139.75168
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user04.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.67676 139.76538",
+      "price": 7636,
+      "type": "bungalow",
+      "rooms": 7,
+      "guests": 62,
+      "checking": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "washer",
+        "parking",
+        "dishwasher"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ],
+      "location": {
+        "x": 35.67676,
+        "y": 139.76538
+      }
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user06.png"
+    },
+    "offer": {
+      "title": "Title",
+      "address": "35.66325 139.72231",
+      "price": 170,
+      "type": "bungalow",
+      "rooms": 5,
+      "guests": 81,
+      "checking": "12:00",
+      "checkout": "14:00",
+      "features": [
+        "conditioner",
+        "wifi",
+        "dishwasher",
+        "washer"
+      ],
+      "description": "Description",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ],
+      "location": {
+        "x": 35.66325,
+        "y": 139.72231
+      }
+    }
+  }
+]
