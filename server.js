@@ -38,7 +38,7 @@ http
         response.end(JSON.stringify({ error: "Not Found" }));
       }
     } else if (request.method === "POST") {
-      if (request.url === "/offer") {
+      if (request.url === "/offers") {
         let body = "";
 
         request.on("data", (chunk) => {
@@ -52,26 +52,22 @@ http
 
             // Преобразование данных к нужной структуре, если необходимо
             const formattedOffer = {
-              author: newOffer.author || { avatar: "img/avatars/default.png" },
+              author: newOffer.author,
               offer: {
-                title: newOffer.offer.title || "Untitled",
-                address: newOffer.offer.address || "",
-                price: Number(newOffer.offer.price) || 0,
-                type: newOffer.offer.type || "flat",
-                rooms: Number(newOffer.offer.rooms) || 1,
-                guests: Number(newOffer.offer.guests) || 1,
-                checking: newOffer.offer.checking || "12:00",
-                checkout: newOffer.offer.checkout || "12:00",
-                features: Array.isArray(newOffer.offer.features)
-                  ? newOffer.offer.features
-                  : [],
-                description: newOffer.offer.description || "",
-                photos: Array.isArray(newOffer.offer.photos)
-                  ? newOffer.offer.photos
-                  : [],
+                title: newOffer.offer.title,
+                address: newOffer.offer.address,
+                price: Number(newOffer.offer.price),
+                type: newOffer.offer.type,
+                rooms: Number(newOffer.offer.rooms),
+                guests: Number(newOffer.offer.guests),
+                checking: newOffer.offer.checking,
+                checkout: newOffer.offer.checkout,
+                features: newOffer.offer.features,
+                description: newOffer.offer.description,
+                photos: newOffer.offer.photos,
                 location: {
-                  x: Number(newOffer.offer.location?.x) || 0,
-                  y: Number(newOffer.offer.location?.y) || 0,
+                  x: Number(newOffer.offer.location?.x),
+                  y: Number(newOffer.offer.location?.y),
                 },
               },
             };
@@ -88,9 +84,6 @@ http
               let offersArray;
               try {
                 offersArray = JSON.parse(data);
-                if (!Array.isArray(offersArray)) {
-                  throw new Error("File content is not a valid JSON array");
-                }
               } catch (err) {
                 response.writeHead(500, {
                   "Content-Type": "application/json; charset=utf-8",
