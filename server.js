@@ -2,7 +2,7 @@ const http = require("http");
 const fs = require("fs");
 const path = require("path");
 const config = require("./config/config");
-const generateOffers = require("./services/generateOffers");
+const generateOffers = require("./utils/generateOffers");
 
 const offers = generateOffers();
 const filePath = path.join(__dirname, "/data/photos.txt");
